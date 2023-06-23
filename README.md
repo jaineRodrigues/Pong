@@ -11,4 +11,4 @@ pontos. O objetivo do jogo é evitar que a bola passe pela raquete e marcar pont
 
 
 - [Alura](https://www.alura.com.br/)
-- [Fly](https://www.flyedu.com/)
+- [Fly]([https://www.flyedu.com](https://www.linkedin.com/company/flyeducacao)https://www.linkedin.com/company/flyeducacao)
