@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+
+:root {
+    --main-color: #f8f5f5;
+    --black: #000000;
+    --bg: #5ea3e3;
+    --border: 0.1rem solid rgba(255, 255, 255, 0.3);
+    --abouth: rgb(253, 253, 253);
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background: var(--black);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 3%;
+    border-bottom: var(--border);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.jogo {
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+    background: var(--abouth);
+    margin-top: 4rem;
+    background: var(--abouth);
+}
+
+canvas {
+    margin: 0 auto;
+    background-color: #000;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #772;
+    background-color: var(--black);
+    border: none;
+    border-radius: 0.3rem;
+    padding: 0.8rem 2rem;
+    margin: 0 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #444444;
+}
