@@ -1,7 +1,7 @@
 # Pong
 
 <p>Este é um jogo de Pong desenvolvido como parte de um curso da Alura em parceria com a Fly. O jogo foi criado 
-utilizando inicialmente o Scratch e depois foi refeito em JavaScript, utilizando a biblioteca p5.js web Algumas adaptações
+utilizando inicialmente o Scratch e depois foi refeito em JavaScript, utilizando a biblioteca p5.js web. Algumas adaptações
   foram feitas para que o jogo possa ser executado sem depender da biblioteca p5.js</p>
 
 ## Descrição do Jogo
